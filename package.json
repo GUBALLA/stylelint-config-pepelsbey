@@ -1,0 +1,35 @@
+{
+	"name": "stylelint-config-pepelsbey",
+	"version": "1.0.0",
+	"description": "My Stylelint config",
+	"main": "index.js",
+	"type": "module",
+	"files": [
+		"index.js",
+		"order.js"
+	],
+	"scripts": {
+		"update": "node update.js"
+	},
+	"keywords": [
+		"stylelint",
+		"stylelint-config",
+		"css",
+		"linter"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pepelsbey/stylelint-config-pepelsbey.git"
+	},
+	"author": "Vadim Makeev",
+	"license": "MIT",
+	"peerDependencies": {
+		"stylelint": "^16.0.0",
+		"stylelint-order": "^7.0.0"
+	},
+	"devDependencies": {
+		"@mdn/browser-compat-data": "^5.7.4",
+		"stylelint": "^16.0.0",
+		"stylelint-order": "^7.0.0"
+	}
+}
